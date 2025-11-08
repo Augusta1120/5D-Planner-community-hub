@@ -71,3 +71,4 @@ If you build a minimal prototype, include `README` sections here: install, run, 
 - The system architecture (in `systemArchitecture.md`) explains feasibility for a small team, which is what judges look for.
 
 - Added full product overview and description
+_Updated on november 8th, 2025_
